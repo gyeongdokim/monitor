@@ -1,0 +1,12 @@
+# 실행 결과물
+spread_log.csv
+spread_summary.csv
+
+# 실제 매매 기록 (템플릿만 공개)
+*_실전.xlsx
+
+# API 키 파일 — 절대 업로드 금지
+.env
+
+# 파이썬 캐시
+__pycache__/
